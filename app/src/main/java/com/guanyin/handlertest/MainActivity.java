@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void run() {
 
-            txt1.setText("drango");
+            txt1.setText("ffff");
         }
     }
 }
